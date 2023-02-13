@@ -13,4 +13,8 @@ mpg = 6.27(vehicle length)+.001(vehicle weight)+.07(spoiler angle)+3.55(ground c
 
 3) The model has an R-squared value of 0.7149. This means that this model can predict mpg with a little more than 71% accuracy. Although clearly not perfect this level of accuract is considered to be relatively effective. 
 
+### Total Summary
+![summary_table](Screenshot3.png)
 
+### Summary by Lot
+![summary_table](Screenshot4.png)
