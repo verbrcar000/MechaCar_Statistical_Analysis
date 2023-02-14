@@ -29,4 +29,5 @@ In the t-tests run on lots 1 and 2, we get a similar result. The p-value from th
 ![summary_table](Screenshot8.png)
 
 ## Study Design: MechaCar vs Competition
-In conducting a study to comare MechaCar vs the competition it would make the most sense to use price, fuel efficiency, horse power, maintenance cost, and safety rating as metrics. The null hypothesis would be that the means of each of these  MechaCar metrics are not statisically similar to those of competitors metrics. The alternative hypothesis would be that the means of the afformentioned MechaCar metrics are stastically similar to the same metrics of competitors cars.
+Especially with rising gas prices, fuel efficiency has certainly become an important consideration when it comes to purchasing a car. For this reason, it would make sense to conduct a study comparing the fuel efficiency of MechaCar to the fuel efficiency of competitors. The null hypothesis of such a study would be that there is no statistically significant difference between MechaCar's fuel efficiency and that of it's competitors. The alternative hypothesis would be that there is a statistical difference between MechaCar's fuel efficiency and that of it's competitors. For this study, we would conduct a one-sample t-test using data from a sample of MechaCars and a sample of competitor cars. 
+
