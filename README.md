@@ -11,7 +11,7 @@ mpg = 6.27(vehicle length)+.001(vehicle weight)+.07(spoiler angle)+3.55(ground c
 
 ![summary_table](Screenshot2.png)
 
-3) The model has an R-squared value of 0.7149. This means that this model can predict mpg with a little more than 71% accuracy. Although clearly not perfect this level of accuract is considered to be relatively effective. 
+3) The model has an R-squared value of 0.7149. This means that this model can predict mpg with a little more than 71% accuracy. Although clearly not perfect this level of accuracy is considered to be relatively effective. 
 
 ### Total Summary
 ![summary_table](Screenshot3.png)
@@ -31,4 +31,4 @@ In the t-tests run on lots 1 and 2, we get a similar result. The p-value from th
 ![summary_table](Screenshot8.png)
 
 ## Study Design: MechaCar vs Competition
-It would make the most sense to use cost, city or highway fuel efficiency, horse power, maintenance cost, and safety rating as metrics to create a statistical study that can quantify how the MechaCar performs against the competition. The null hypothesis would be that the means of each of these  MechaCar metrics are not statisically similar to those of competitors metrics. The alternative hypothesis would be that the means of the afformentioned MechaCar metrics are stastically similar to the same metrics of competitors cars.
+In conducting a study to comare MechaCar vs the competition it would make the most sense to use price, fuel efficiency, horse power, maintenance cost, and safety rating as metrics. The null hypothesis would be that the means of each of these  MechaCar metrics are not statisically similar to those of competitors metrics. The alternative hypothesis would be that the means of the afformentioned MechaCar metrics are stastically similar to the same metrics of competitors cars.
