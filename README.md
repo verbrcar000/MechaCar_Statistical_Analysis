@@ -5,13 +5,11 @@
 
 ![summary_table](Screenshot1.png)
 
-2) The slope of the linear model is not considered to be zero. If we use the coefficients seen below to generate the formula for the model, we get this:
-
-mpg = 6.27(vehicle length)+.001(vehicle weight)+.07(spoiler angle)+3.55(ground clearance)-3.41(AWD)-0.01
+2) The slope of the linear model is not considered to be zero. We know this because the p-value of the hypothesis is less than 0.05 so the model is significant.
 
 ![summary_table](Screenshot2.png)
 
-3) The model has an R-squared value of 0.7149. This means that this model can predict mpg with a little more than 71% accuracy. Although clearly not perfect this level of accuracy is considered to be relatively effective. 
+3) The model has an multiple R-squared value of 0.7149. This means that this model has a 71% variance in predicted mpg values. Although clearly not perfect this level of accuracy is considered to be relatively effective. 
 
 ### Total Summary
 ![summary_table](Screenshot3.png)
